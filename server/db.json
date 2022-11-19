@@ -1,0 +1,101 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "image": "/images/1.jpg",
+      "name": "How much countries in Africa",
+      "text": "It contains 54 fully recognised sovereign states (countries), nine territories and two de facto independent states with limited or no recognition."
+    },
+    {
+      "id": 1,
+      "image": "/images/2.jpg",
+      "name": "How big is Africa?",
+      "text": "It covers 6% of Earth's total surface area and 20.4% of its total land area"
+    },
+    {
+      "id": 2,
+      "image": "/images/3.jpg",
+      "name": "What the largest country in Africa?",
+      "text": "Algeria is Africa's largest country by area, and Nigeria is its largest by population"
+    },
+    {
+      "id": 3,
+      "image": "/images/4.jpg",
+      "name": "When comes winter in Africa?",
+      "text": "Winter in Africa starts 21 june, and ends after 23 september. Temperature can change from  2C to 26C during the winter according to the location"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "oleggg@gmail.com",
+      "password": "1234",
+      "name": "Oleg",
+      "createdAt": "2022-11-04T14:36:10.980Z"
+    },
+    {
+      "id": 2,
+      "email": "ivanIvanovich@gmail.com",
+      "password": "12345",
+      "name": "Ivan",
+      "createdAt": "2022-11-05T15:36:15.980Z"
+    },
+    {
+      "id": 3,
+      "email": "superUser@gmail.com",
+      "password": "45987",
+      "name": "Andrew",
+      "createdAt": "2022-02-21T09:36:10.980Z"
+    },
+    {
+      "id": 4,
+      "email": "userMike@gmail.com",
+      "password": "11111111",
+      "name": "Michael",
+      "createdAt": "2022-03-05T11:36:15.980Z"
+    },
+    {
+      "id": 5,
+      "email": "antoshka@gmail.com",
+      "password": "56781122",
+      "name": "Anton",
+      "createdAt": "2022-05-05T10:36:10.980Z"
+    },
+    {
+      "id": 6,
+      "email": "userDasha@gmail.com",
+      "password": "122333",
+      "name": "Darya",
+      "createdAt": "2022-01-15T01:35:15.980Z"
+    },
+    {
+      "id": "1668863502305",
+      "email": "a",
+      "password": "1",
+      "name": "Aa"
+    },
+    {
+      "id": "1668866096008",
+      "email": "a@gmail.com",
+      "password": "112211",
+      "name": "Sergey",
+      "createdAt": "2022-9-11T010:10:49.980Z"
+    },
+    {
+      "id": "1668866252367",
+      "email": "sos@gmail.com",
+      "password": "2323",
+      "name": "Artyom",
+      "createdAt": "2022-12-18T016:56:40.980Z"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Первая заметка",
+      "body": "Тело первой заметки",
+      "createdAt": "05.11.2022"
+    }
+  ]
+}
