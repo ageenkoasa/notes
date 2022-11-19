@@ -22,12 +22,6 @@ const router = createBrowserRouter([
         <Layout />
       </ProtectedRoute>
     ),
-    // loader: () => {
-    //   const user = localStorage.getItem('user');
-    //   if (!user) {
-    //     return redirect('/login');
-    //   }
-    // },
     children: [
       {
         index: true,
